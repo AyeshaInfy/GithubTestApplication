@@ -7,7 +7,6 @@ namespace GithubTestApplication
 {
     public class Hometest
     {
-
         //Changes added by User 2
         public Hometest(string title)
         {
@@ -20,5 +19,8 @@ namespace GithubTestApplication
         {
             return x + y;
         }
+
+        //Add logic related to comman added by User 1
+
     }
 }
