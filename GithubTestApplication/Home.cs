@@ -5,7 +5,20 @@ using System.Threading.Tasks;
 
 namespace GithubTestApplication
 {
-    public class Home
+    public class Hometest
     {
+
+        //Changes added by User 2
+        public Hometest(string title)
+        {
+            this.title = title;
+        }
+
+        private string title = "";
+
+        public int  Calculate(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
