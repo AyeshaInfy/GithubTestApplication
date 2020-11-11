@@ -7,6 +7,6 @@ namespace GithubTestApplication
 {
     public class Home
     {
-        //Add logic related to comman class
+        //Add logic related to comman added by User 1
     }
 }
